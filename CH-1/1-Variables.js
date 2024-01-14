@@ -15,5 +15,3 @@ const value = 18;
 console.log(value);
 // const value = 22 
 // const value ;
-
-// 
